@@ -1,3 +1,5 @@
+Project presentation: https://drive.google.com/file/d/11OvPRCK9-DK0E1bpc7n20udjLg91vc28/view?usp=drivesdk
+
 Taste Bites – Business Management System
 
 1. Competitor Analysis in the Market – Taste Bites
